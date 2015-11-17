@@ -1,0 +1,13 @@
+[
+ {
+ "name": "Lviv",
+ "lat": 123.12,
+ "long": 24
+ },
+ 
+ {
+ "name": "Zolochiv",
+ "lat": 125,
+ "long": 27
+ }
+ ]
